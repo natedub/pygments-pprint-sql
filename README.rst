@@ -36,3 +36,11 @@ uses MySQL. In general it should transfer nicely to other RDBMS but I
 can make no guarantees.
 
 Patches always welcome, provided they come with test cases!
+
+Alternatives
+------------
+
+  * `SQLParse`_ is a standalone parser and formatter package with some nice
+    options for customizing how formatting occurs.
+
+.. _SQLParse: https://github.com/andialbrecht/sqlparse
